@@ -1,6 +1,8 @@
 package ru.ponomaryov.se;
 
 /**
+*/
+/**
  * @author Oleg Ponomaryov
  * @version 1.0.0
  */
